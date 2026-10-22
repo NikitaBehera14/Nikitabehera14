@@ -1,8 +1,8 @@
 Hi, I'm Nikita Behera 👋
 
-Biotechnology | Bioinformatics | Computational Biology | AI/ML in Healthcare
+Biotechnology | Bioinformatics | Computational Biology | NGS | AI/ML in Healthcare
 
-I'm a final-year Integrated B.Tech–M.Tech Biotechnology student at KIIT, Bhubaneswar, interested in combining biological sciences, programming and data-driven approaches to solve problems in healthcare and life sciences.
+I'm a final-year Integrated B.Tech–M.Tech Biotechnology student at KIIT University, Bhubaneswar, interested in combining biological sciences, programming and data-driven approaches to solve problems in healthcare and life sciences.
 
 nikita@github:~$ whoami
 > Biotechnology postgraduate-in-training
